@@ -1,0 +1,4 @@
+jsonpath-ng
+requests
+ipyplot
+tifffile
